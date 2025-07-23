@@ -3,11 +3,13 @@
 A Repo and A Collection of React Components / Backgrounds / Icons / etc.
 
 Build with Next.js, React, Tailwind CSS, TypeScript.
+
 Build in Mindrose Team's daily Develepment.
 
 Open-source and free to use.
 
 **Not a Production Ready Website and Repo yep.**
+
 **Maybe a Production Ready Repo before Sep 15, 2025.**
 
 # The Basic Template's Documents

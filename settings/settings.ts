@@ -1,4 +1,4 @@
-export const url = "https://rubix-documents.vercel.app"
+export const url = "https://www.mindrose-ui.xyz"
 export const siteicon = "/icon.png"
 
 export const gtm = "GTM-XXXXXXX"
@@ -6,7 +6,7 @@ export const gtmconnected = true
 
 export const sitename = "Mindrose UI"
 export const description =
-  "This comprehensive documentation template, crafted with Next.js and available as open-source, delivers a sleek and responsive design, tailored to meet all your project documentation requirements."
+  "This repo of UI components, crafted for React / Tailwind CSS and available as open-source, delivers a sleek and responsive design, tailored to make a little help for your development."
 export const keywords = [
   "Mindrose UI",
   "open source",

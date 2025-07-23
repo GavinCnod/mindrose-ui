@@ -7,11 +7,11 @@ export const Navigations = [
   },
   {
     title: "Home",
-    href: "https://rubixstudios.com.au",
+    href: "https://www.mindrose-ui.xyz",
     external: true,
   },
 ]
 
 export const GitHubLink = {
-  href: "https://github.com/rubixvi/rubix-documents",
+  href: "https://github.com/GavinCnod/mindrose-ui",
 }

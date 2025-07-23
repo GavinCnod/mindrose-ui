@@ -1,4 +1,16 @@
-# Documents
+# Mindrose UI 
+
+A Repo and A Collection of React Components / Backgrounds / Icons / etc.
+
+Build with Next.js, React, Tailwind CSS, TypeScript.
+Build in Mindrose Team's daily Develepment.
+
+Open-source and free to use.
+
+**Not a Production Ready Website and Repo yep.**
+**Maybe a Production Ready Repo before Sep 15, 2025.**
+
+# The Basic Template's Documents
 
 Documents is a modern documentation starter kit built with **Next.js**, **React**, **Tailwind CSS**, and **TypeScript**. Designed for businesses, product teams, and technical writers, it provides a scalable and efficient foundation for building documentation websites, product manuals, and knowledge bases.
 

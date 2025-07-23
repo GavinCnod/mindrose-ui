@@ -55,9 +55,11 @@
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^4.5.1",
     "@tailwindcss/typography": "^0.5.16",
+    "@types/geojson": "^7946.0.16",
     "@types/node": "^24.0.15",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
+    "@types/trusted-types": "^2.0.7",
     "@typescript-eslint/parser": "^8.37.0",
     "autoprefixer": "^10.4.21",
     "eslint": "^9.31.0",
